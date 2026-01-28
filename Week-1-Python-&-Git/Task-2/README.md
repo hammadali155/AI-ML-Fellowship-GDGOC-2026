@@ -29,7 +29,6 @@ This task demonstrates proficiency in advanced Python concepts including:
 - ✅ Lambda function examples (square, add, is_even, get_max)
 - ✅ Higher-order functions (apply_operation, filter_data)
 - ✅ Statistical calculations using `*args`
-- ✅ Profile building with mixed arguments
 
 **Run:**
 ```bash
@@ -185,5 +184,4 @@ python data_op.py
 
 ---
 
-**Submission Date:** January 27, 2026  
-**Repository:** [GitHub Link]
+**Submission Date:** January 29, 2026  
