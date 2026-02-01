@@ -2,7 +2,7 @@
 
 A simple utility built with Streamlit to log fellowship hours and related expenses. This project demonstrates core Python concepts including OOP, modular programming, file handling, and error handling.
 
-## 🚀 Features
+## Features
 
 - **Study Logging**: Track time spent on various fellowship tasks.
 - **Expense Tracking**: Log costs related to the fellowship.
@@ -10,7 +10,7 @@ A simple utility built with Streamlit to log fellowship hours and related expens
 - **Modular Design**: Logic and file handling are separated into a custom package `logger_pkg`.
 - **Clean UI**: Simple dashboard for viewing logs and quick statistics.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 MiniProject/
@@ -24,13 +24,13 @@ MiniProject/
 └── README.md             # Project documentation
 ```
 
-## 🛠️ Requirements
+## Requirements
 
 - Python 3.x
 - Streamlit
 - Pandas
 
-## 🏃 How to Run
+## How to Run
 
 1.  Navigate to the project directory:
     ```powershell
@@ -45,7 +45,7 @@ MiniProject/
     streamlit run app.py
     ```
 
-## 📝 Concepts Applied
+## Concepts Applied
 
 - **Object-Oriented Programming (OOP)**: Use of base classes and inheritance for different log types.
 - **Modules & Packages**: Logical separation of code into a reusable package.
