@@ -20,7 +20,7 @@ The assignment involves:
 ## How to Run the Notebook
 1. Open [Google Colab](https://colab.research.google.com/).
 2. Click on **File > Upload notebook**.
-3. Select `titanic_eda.ipynb` from the `Week-2-Data-Handling-&-Visualisation` folder.
+3. Select `titanic_dataset_analysis.ipynb` from the `Week-2-Data-Handling-&-Visualisation` folder.
 4. Run the cells sequentially to see the analysis and visualizations.
 
 ## Dataset
