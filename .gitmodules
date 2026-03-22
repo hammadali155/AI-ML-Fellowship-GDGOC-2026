@@ -1,0 +1,6 @@
+[submodule "Week1-python-and-git-foundation/Task5"]
+	path = Week1-python-and-git-foundation/Task5
+	url = https://github.com/hammadali155/Study-Expense-Tracker
+[submodule "Week3-Week4-project-plant-watering-system/Plant-Watering-System"]
+	path = Week3-Week4-project-plant-watering-system/Plant-Watering-System
+	url = https://github.com/magic-meer/Plant-Watering-System
