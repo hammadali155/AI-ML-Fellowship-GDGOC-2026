@@ -1,6 +1,6 @@
 [submodule "Week-1-Python-&-Git/Task-5"]
 	path = Week-1-Python-&-Git/Task-5
 	url = https://github.com/hammadali155/Study-Expense-Tracker
-[submodule "Week-3-4-Embedded-Systems/Plant-Watering-System"]
-	path = Week-3-4-Embedded-Systems/Plant-Watering-System
+[submodule "Week-3-4-Peer-Project-1/Plant-Watering-System"]
+	path = Week-3-4-Peer-Project-1/Plant-Watering-System
 	url = https://github.com/magic-meer/Plant-Watering-System
